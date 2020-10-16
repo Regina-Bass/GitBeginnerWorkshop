@@ -46,7 +46,7 @@ If you run into any problems, let one of the hosts know on Discord so that they 
 </li>
     </ul>
   </li>
-   <li> Access the README file by either
+   <li> Access the README file
       <ul>
         <li> Mac:
   
@@ -108,7 +108,9 @@ If you run into any problems, let one of the hosts know on Discord so that they 
   ```
    </li>
        <li> It should have opened a GUI. Write something in it, such as your name.</li>
-       <li> When you're satisfied, Exit with Ctrl + X, save the file with Y, then click Enter. **You can test the file by opening it with open <filename> or start <filename>
+       <li> When you're satisfied, Exit with Ctrl + X, save the file with Y, then click Enter. 
+  
+   <p>**You can test the file by opening it with open <filename> or start <filename></p>
    </li>
  <ol>
 </details>
@@ -173,4 +175,5 @@ If you run into any problems, let one of the hosts know on Discord so that they 
 
 ### Config
 `$ git config --global user.name "John Doe"`
+
 `$ git config --global user.email johndoe@example.com`
