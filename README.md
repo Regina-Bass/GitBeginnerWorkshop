@@ -37,23 +37,23 @@
 </li>
     </ul>
   </li>
-   <li> Access the ReadMe file by either
+   <li> Access the README file by either
       <ul>
         <li> Mac:
   
   ```unix
-    open ReadMe.md
+    open README.md
   ```
   </li>
         <li> Windows: 
   
   ```unix
-    start ReadMe.md
+    start README.md
   ```
 </li>
     </ul>
   </li>
-   <li> Finally, leave the repository once you confirm access to the file 
+   <li> Finally, leave the repository
   
   ```unix
     cd ../
@@ -62,13 +62,6 @@
   </ol>
 
   </p>
-</details>
-<details>
-  <summary>Leave the Repository</summary>
-  
-  ```unix
-    cd ../
-  ```
 </details>
 
 <br>
