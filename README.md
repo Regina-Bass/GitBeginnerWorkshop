@@ -8,7 +8,9 @@ If you get an error, then you do not have git installed locally. Visit: https://
 If you run into any problems, let one of the hosts know on Discord so that they can assist you!
 
 
-### Exercise 0
+<br>
+
+## Exercise 0
 
 <details>
   <summary>Clone this repository</summary>
@@ -73,7 +75,7 @@ If you run into any problems, let one of the hosts know on Discord so that they 
 
 <br>
 
-### Exercise 1
+## Exercise 1
 <details>  <summary>Create a directory</summary>
  
   ```unix
@@ -129,8 +131,7 @@ If you run into any problems, let one of the hosts know on Discord so that they 
 </details>
 
 <br>
-<br>
-<br>
+
 
 <details>  <summary>Create a GitHub Account</summary>
     Go to https://github.com/join?
@@ -147,7 +148,7 @@ If you run into any problems, let one of the hosts know on Discord so that they 
 
 <br>
 
-### Exercise 2
+## Exercise 2
 
 <details>
   <summary>Create a branch and "Check Out"</summary>
