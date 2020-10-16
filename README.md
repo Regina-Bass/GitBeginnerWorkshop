@@ -9,7 +9,7 @@
   ```git
     git clone <url>
   ```
-  <img src="findURL.jpeg" alt="image of GitHub Interface" width=250><br>
+  <img src="/findURL.png" alt="image of GitHub Interface" width=800><br>
 </details>
 <details>
   <summary>Access README.md </summary>
@@ -68,21 +68,6 @@
   
   ```unix
     cd ../
-  ```
-</details>
-
-<details>
-  <summary>Create a branch</summary>
-  
-  ```git
-    git commit -m "This is your commit message"
-  ```
-</details>
-<details>
-  <summary>Checkout your branch</summary>
-  
-  ```git
-    git commit -m "This is your commit message"
   ```
 </details>
 
