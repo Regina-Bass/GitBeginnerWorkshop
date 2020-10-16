@@ -169,3 +169,8 @@ If you run into any problems, let one of the hosts know on Discord so that they 
   
   When you're done, go to your github profile to see those changes!
 </details>
+
+
+### Config
+`$ git config --global user.name "John Doe"`
+`$ git config --global user.email johndoe@example.com`
