@@ -32,16 +32,16 @@
   ```
 </details>
 
-
+<br>
 
 ### Checkpoint 2
-<details>
-  <summary>create a text file</summary>
-  
+<details>  <summary>create a text file</summary>
+ 
   ```git
     git commit -m "This is your commit message"
   ```
 </details>
+
 <details>add your file to your branch</summary>
   
   ```git
@@ -49,7 +49,7 @@
   ```
 </details>
 
-
+<br>
 
 ### Checkpoint 3
 
