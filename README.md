@@ -1,7 +1,7 @@
 # Git Beginner Workshop
 
 
-## Exercise 0
+### Exercise 0
 
 <details>
   <summary>Clone this repository</summary>
@@ -9,6 +9,7 @@
   ```git
     git clone <url>
   ```
+  <img src="findURL.jpeg" alt="image of GitHub Interface" width=250><br>
 </details>
 <details>
   <summary>Access README.md </summary>
