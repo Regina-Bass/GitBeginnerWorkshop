@@ -5,6 +5,8 @@ Check if you have git by doing
 
 If you get an error, then you do not have git installed locally. Visit: https://git-scm.com/downloads
 
+If you run into any problems, let one of the hosts know on Discord so that they can assist you!
+
 
 ### Exercise 0
 
@@ -140,39 +142,29 @@ If you get an error, then you do not have git installed locally. Visit: https://
     git push
   ```
   
- ** You may run into some configuration problems since this is your first time
+ ** You may run into some configuration problems since this is your first time authenticating.
 </details>
 
 <br>
 
-### Checkpoint 3
+### Exercise 2
 
 <details>
-  <summary>make a commit</summary>
+  <summary>Create a branch and "Check Out"</summary>
   
   ```git
-    git commit -m "This is your commit message"
+    git branch <name>
   ```
+  OR
+  ```git
+    git checkout -b <name>
+  ```
+  The latter will create the branch and then checkout for you, whereas if you do the first version you are only creating the branch and will need to run `git checkout <branchName>` afterwords.
+  
 </details>
 <details>
-  <summary>push your commit</summary>
+  <summary>Try It Out!</summary>
+  Try <b>Adding</b>, <b>Commiting</b>, then <b>Pushing</b> something onto this branch!
   
-  ```git
-    git commit -m "This is your commit message"
-  ```
+  When you're done, go to your github profile to see those changes!
 </details>
-<details>
-  <summary>Create a branch</summary>
-  
-  ```git
-    git commit -m "This is your commit message"
-  ```
-</details>
-<details>
-  <summary>Checkout your branch</summary>
-  
-  ```git
-    git commit -m "This is your commit message"
-  ```
-</details>
-
