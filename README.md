@@ -134,7 +134,7 @@ If you run into any problems, let one of the hosts know on Discord so that they 
 
 
 <details>  <summary>Create a GitHub Account</summary>
-    Go to https://github.com/join?
+    Go to https://github.com/join
 </details>
 
   <details>  <summary>Push your commit to the repository</summary>
